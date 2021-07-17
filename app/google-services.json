@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505728770047",
+    "project_id": "flames-d8df1",
+    "storage_bucket": "flames-d8df1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505728770047:android:06cca35f4fafcc9e4f91ca",
+        "android_client_info": {
+          "package_name": "com.example.flames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505728770047-v6is71i6o4onmmgritpvosrq36t5bccm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAXFcUlPVqiOSzourlFSJM8Xve71ZvIHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505728770047-v6is71i6o4onmmgritpvosrq36t5bccm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
